@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Toledo, OH working on a remote team
 * 🖥️  See my portfolio at [corinne-m-dev.netlify.app/](http://corinne-m-dev.netlify.app/)
 * ✉️  You can contact me at [corinne.m.dev@gmail.com](mailto:corinne.m.dev@gmail.com)
-* 💬  Ask me about my spider collection :D
+* 💬  Ask me about my spiders :D
 
 ### Skills
 
