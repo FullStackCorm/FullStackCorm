@@ -10,7 +10,7 @@ Software Engineer
 * ✉️  You can contact me at [corinne.m.dev@gmail.com](mailto:corinne.m.dev@gmail.com)
 * 💬  Ask me about my spiders :D
 
-### Skills
+### Languages & Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
