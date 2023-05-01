@@ -12,10 +12,9 @@
   <h2>Projects</h2>
 </div>
 
-| <h3>xDiggityDee</h3>  | <h3>Cornodoro</h3> |
+| <!-- xDiggityDee --><h3 align="center">xDiggityDee</h3> ![xdiggity-min](https://user-images.githubusercontent.com/101738478/235507404-a6de8be3-7838-43eb-a31f-2e7659551dc0.gif) <div align="center">[![xDiggityRepo][xDiggityRepo]][xDiggityRepo-url] [![xDiggity][xDiggityDee]][xDiggityDee-url]</div> <p align="center">**Javascript, HTML5, CSS3 & Sass** - Professional website for a music producer. Featuring his songs, tour schedule, and contact information!</p>  | <!-- Cornodoro --> <h3 align="center">Cornodoro</h3> ![cornodoro](https://user-images.githubusercontent.com/101738478/235510631-23bf885d-b88a-4138-9aa5-a57436ccbd5d.gif)  <div align="center"> [![CornodoroRepo][CornodoroRepo]][CornodoroRepo-url] [![Cornodoro][Cornodoro]][Cornodoro-url]</div> <p align="center">**Created with Reactjs, Vite, & TailwindCSS** - A grain-themed Pomodoro app! I created this as a tribute to the corn meme and a mispronunciation of my first name.</p>  | 
 | ------------- | ------------- |
-| ![xdiggity-min](https://user-images.githubusercontent.com/101738478/235507404-a6de8be3-7838-43eb-a31f-2e7659551dc0.gif) |  ![cornodoro](https://user-images.githubusercontent.com/101738478/235510631-23bf885d-b88a-4138-9aa5-a57436ccbd5d.gif)|
-| <div align="center">[![xDiggityRepo][xDiggityRepo]][xDiggityRepo-url] [![xDiggity][xDiggityDee]][xDiggityDee-url]</div> <p align="center">**Javascript, HTML5, CSS3 & Sass** - Professional website for a music producer. Featuring his songs, tour schedule, and contact information!</p>| <div align="center"> [![CornodoroRepo][CornodoroRepo]][CornodoroRepo-url] [![Cornodoro][Cornodoro]][Cornodoro-url]</div> <p align="center">**Created with Reactjs, Vite, & TailwindCSS** - A grain-themed Pomodoro app! I created this as a tribute to the corn meme and a mispronunciation of my first name.</p>  |
+<!-- |<h3 align="center">JH Vanity Salon</h3> | <h3 align="center">Portfolio Site</h3> | -->
 
 
 <div align="center">
