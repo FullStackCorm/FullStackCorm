@@ -1,14 +1,25 @@
 ![](https://github.com/FullStackCorm/FullStackCorm/blob/main/banner.png)
-Hi 👋 My name is Corinne
-========================
+<div align="center">
+  <h1>Hi 👋 My name is Corinne</h1>
+  <p>I'm a fullstack software engineer based in Toledo, OH and working on a remote team.
+</div>
 
-Software Engineer
------------------
-
-* 🌍  I'm based in Toledo, OH working on a remote team
 * 🖥️  See my portfolio at [corinne-m-dev.netlify.app/](http://corinne-m-dev.netlify.app/)
 * ✉️  You can contact me at [corinne.m.dev@gmail.com](mailto:corinne.m.dev@gmail.com)
 * 💬  Ask me about my spiders :D
+
+<div align="center">
+  <h2>Projects</h2>
+</div>
+
+| xDiggityDee  | Cornodoro |
+| ------------- | ------------- |
+| ![xdiggity-min](https://user-images.githubusercontent.com/101738478/235507404-a6de8be3-7838-43eb-a31f-2e7659551dc0.gif) |  ![cornodoro](https://user-images.githubusercontent.com/101738478/235510631-23bf885d-b88a-4138-9aa5-a57436ccbd5d.gif)|
+| <div align="center">[![xDiggityRepo][xDiggityRepo]][xDiggityRepo-url] [![xDiggity][xDiggityDee]][xDiggityDee-url]</div> <p align="center">**Javascript, HTML5, CSS3 & Sass** - Professional website for a music producer. Featuring his songs, tour schedule, and contact information!</p>| <div align="center"> [![CornodoroRepo][CornodoroRepo]][CornodoroRepo-url] [![Cornodoro][Cornodoro]][Cornodoro-url]</div> <p align="center">**Created with Reactjs, Vite, & TailwindCSS** - A grain-themed Pomodoro app! I created this as a tribute to the corn meme and a mispronunciation of my first name.</p>  |
+
+
+
+
 
 ### Languages & Tools
 
@@ -36,4 +47,16 @@ Software Engineer
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FullStackCorm&theme=aura)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/FullStackCorm/FullStackCorm/blob/output/github-contribution-grid-snake.svg)
+
+
+<!-- Project URLs -->
+[xDiggityRepo]: https://img.shields.io/badge/repo-8b67db.svg?style=plastic&logo=appveyor=xDiggityDee&logoColor=white
+[xDiggityRepo-url]: https://github.com/FullStackCorm/xDiggityDee
+[xDiggityDee]: https://img.shields.io/badge/website-4298b8.svg?style=plastic&logo=appveyor=xDiggityDee&logoColor=white
+[xDiggityDee-url]: https://xdiggitydee.netlify.app/
+
+[CornodoroRepo]: https://img.shields.io/badge/repo-8b67db.svg?style=plastic&logo=appveyor=cornodoro&logoColor=white
+[CornodoroRepo-url]: https://github.com/FullStackCorm/cornodoro
+[Cornodoro]: https://img.shields.io/badge/website-4298b8.svg?style=plastic&logo=appveyor=cornodoro&logoColor=white
+[Cornodoro-url]: https://cornodoro.netlify.app/
 
