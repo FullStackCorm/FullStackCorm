@@ -50,8 +50,8 @@
 
 <b>My GitHub Stats</b>
 
-![Corm's GitHub stats](https://github-readme-stats.vercel.app/api?username=FullStackCorm&theme=aura&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FullStackCorm&theme=aura)](https://git.io/streak-stats)
+![Corm's GitHub stats](https://github-readme-stats.vercel.app/api?username=FullStackCorm&theme=outrun&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FullStackCorm&theme=outrun)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/FullStackCorm/FullStackCorm/blob/output/github-contribution-grid-snake.svg)
 
