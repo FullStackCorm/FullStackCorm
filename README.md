@@ -12,9 +12,10 @@
   <h2>Projects</h2>
 </div>
 
-| <!-- xDiggityDee --><h3 align="center">xDiggityDee</h3> ![xdiggity-min](https://user-images.githubusercontent.com/101738478/235507404-a6de8be3-7838-43eb-a31f-2e7659551dc0.gif) <div align="center">[![xDiggityRepo][xDiggityRepo]][xDiggityRepo-url] [![xDiggity][xDiggityDee]][xDiggityDee-url]</div> <p align="center">**Javascript, HTML5, CSS3 & Sass** - Professional website for a music producer. Featuring his songs, tour schedule, and contact information!</p>  | <!-- Cornodoro --> <h3 align="center">Cornodoro</h3> ![cornodoro](https://user-images.githubusercontent.com/101738478/235510631-23bf885d-b88a-4138-9aa5-a57436ccbd5d.gif)  <div align="center"> [![CornodoroRepo][CornodoroRepo]][CornodoroRepo-url] [![Cornodoro][Cornodoro]][Cornodoro-url]</div> <p align="center">**Created with Reactjs, Vite, & TailwindCSS** - A grain-themed Pomodoro app! I created this as a tribute to the corn meme and a mispronunciation of my first name.</p>  | 
+|<!-- Symplest --> <h3 align="center">Symplest</h3> ![symplest](https://user-images.githubusercontent.com/101738478/235697458-778ba327-1125-4b7c-984e-b7a8469c7aa8.png)  <div align="center"> [![SymplestRepo][SymplestRepo]][SymplestRepo-url] [![Symplest][Symplest]][Symplest-url]</div> <p align="center">**Created with the MERN stack, Material UI, & RESTful API integration** - A health management app that won't sell your data. Users can log medications, symptoms, and notes related to their health.</p> | <!-- xDiggityDee --><h3 align="center">xDiggityDee</h3> ![xdiggity-min](https://user-images.githubusercontent.com/101738478/235507404-a6de8be3-7838-43eb-a31f-2e7659551dc0.gif) <div align="center">[![xDiggityRepo][xDiggityRepo]][xDiggityRepo-url] [![xDiggity][xDiggityDee]][xDiggityDee-url]</div> <p align="center">**Javascript, HTML5, CSS3 & Sass** - Professional website for a music producer. Featuring his songs, tour schedule, and contact information!</p> | 
 | ------------- | ------------- |
-<!-- |<h3 align="center">JH Vanity Salon</h3> | <h3 align="center">Portfolio Site</h3> | -->
+| <!-- JHV --><h3 align="center">JH Vanity Salon</h3> ![JHVanity-min](https://user-images.githubusercontent.com/101738478/235692088-8568ac64-1ef6-4e5c-886b-63f0e6b5d18b.gif)<div align="center">[![JHVRepo][JHVRepo]][JHVRepo-url] [![JHV][JHV]][JHV-url]</div> <p align="center">**Javascript, HTML5, CSS3 & Sass** - Business website for a hair salon. Users can manage appointments, view services and pricing, and learn about promotional events.</p> | <!-- Cornodoro --> <h3 align="center">Cornodoro</h3> ![cornodoro](https://user-images.githubusercontent.com/101738478/235510631-23bf885d-b88a-4138-9aa5-a57436ccbd5d.gif)  <div align="center"> [![CornodoroRepo][CornodoroRepo]][CornodoroRepo-url] [![Cornodoro][Cornodoro]][Cornodoro-url]</div> <p align="center">**Created with Reactjs, Vite, & TailwindCSS** - A grain-themed Pomodoro app! I created this as a tribute to the corn meme and a mispronunciation of my first name.</p>  | 
+
 
 
 <div align="center">
@@ -52,13 +53,24 @@
 
 
 <!-- Project URLs -->
+[SymplestRepo]: https://img.shields.io/badge/repo-8b67db.svg?style=plastic&logo=appveyor=Symplest&logoColor=white
+[SymplestRepo-url]: https://github.com/FullStackCorm/Symplest
+[Symplest]: https://img.shields.io/badge/website-4298b8.svg?style=plastic&logo=appveyor=xDiggityDee&logoColor=white
+[Symplest-url]: https://github.com/FullStackCorm/Symplest
+
 [xDiggityRepo]: https://img.shields.io/badge/repo-8b67db.svg?style=plastic&logo=appveyor=xDiggityDee&logoColor=white
 [xDiggityRepo-url]: https://github.com/FullStackCorm/xDiggityDee
 [xDiggityDee]: https://img.shields.io/badge/website-4298b8.svg?style=plastic&logo=appveyor=xDiggityDee&logoColor=white
 [xDiggityDee-url]: https://xdiggitydee.netlify.app/
 
-[CornodoroRepo]: https://img.shields.io/badge/repo-8b67db.svg?style=plastic&logo=appveyor=cornodoro&logoColor=white
+[JHVRepo]: https://img.shields.io/badge/repo-8b67db.svg?style=plastic&logo=appveyor=JHV&logoColor=white
+[JHVRepo-url]: https://github.com/FullStackCorm/JVHSalon
+[JHV]: https://img.shields.io/badge/website-4298b8.svg?style=plastic&logo=appveyor=JHV&logoColor=white
+[JHV-url]: https://jhvanity.netlify.app/index.html
+
+[CornodoroRepo]: https://img.shields.io/badge/repo-8b67db.svg?style=plastic&logo=appveyor=Cornodoro&logoColor=white
 [CornodoroRepo-url]: https://github.com/FullStackCorm/cornodoro
-[Cornodoro]: https://img.shields.io/badge/website-4298b8.svg?style=plastic&logo=appveyor=cornodoro&logoColor=white
+[Cornodoro]: https://img.shields.io/badge/website-4298b8.svg?style=plastic&logo=appveyor=Cornodoro&logoColor=white
 [Cornodoro-url]: https://cornodoro.netlify.app/
+
 
