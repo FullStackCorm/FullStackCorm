@@ -4,9 +4,13 @@
   <p>I'm a fullstack software engineer based in Toledo, OH and working on a remote team.
 </div>
 
-* 🖥️  See my portfolio at [corinne-m-dev.netlify.app/](http://corinne-m-dev.netlify.app/)
-* ✉️  You can contact me at [corinne.m.dev@gmail.com](mailto:corinne.m.dev@gmail.com)
-* 💬  Ask me about my spiders :D
+<div align="center">
+
+  <p> 🖥️  Portfolio: http://corinne-m-dev.netlify.app </p>
+  <p> ✉️  Contact me at: corinne.m.dev@gmail.com </p>
+ 💬  Ask me about my spiders :D
+</div>
+
 
 <div align="center">
   <h2>Projects</h2>
