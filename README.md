@@ -74,6 +74,6 @@
 [CornodoroRepo]: https://img.shields.io/badge/repo-8b67db.svg?style=plastic&logo=appveyor=Cornodoro&logoColor=white
 [CornodoroRepo-url]: https://github.com/FullStackCorm/cornodoro
 [Cornodoro]: https://img.shields.io/badge/website-4298b8.svg?style=plastic&logo=appveyor=Cornodoro&logoColor=white
-[Cornodoro-url]: https://cornodoro.netlify.app/
+[Cornodoro-url]: https://cornodoro.lol
 
 
