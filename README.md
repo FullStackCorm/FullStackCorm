@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <p> 🖥️  <a href="https://fullstackcorm.netlify.app">Portfolio</a> </p>
+  <p> 🖥️  <a href="https://corm.me">Portfolio</a> </p>
   <p> ✉️  Contact me at: corinne.m.dev@gmail.com </p>
  💬  Ask me about my spiders :D
 </div>
