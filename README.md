@@ -69,7 +69,7 @@
 [JHVRepo]: https://img.shields.io/badge/repo-8b67db.svg?style=plastic&logo=appveyor=JHV&logoColor=white
 [JHVRepo-url]: https://github.com/FullStackCorm/JVHSalon
 [JHV]: https://img.shields.io/badge/website-4298b8.svg?style=plastic&logo=appveyor=JHV&logoColor=white
-[JHV-url]:
+[JHV-url]: https://github.com/FullStackCorm
 
 [CornodoroRepo]: https://img.shields.io/badge/repo-8b67db.svg?style=plastic&logo=appveyor=Cornodoro&logoColor=white
 [CornodoroRepo-url]: https://github.com/FullStackCorm/cornodoro
